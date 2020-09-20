@@ -79,7 +79,7 @@ aside h2 {
 #logo {
     border: 5px solid #ffffff;
     border-radius: 50%;
-    background: url('../images/01.png');
+    background: url('01.png');
     background-repeat: no-repeat;
     background-size: cover;
     box-shadow: 5px 5px 10px rgba(0, 0, 0 ,1);
